@@ -1,0 +1,29 @@
+# Ruby
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+/vendor/bundle
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+
+# SASS
+.sass-cache
+
+# JetBrains IDE
+.idea
+scopes
+
+# OSX
+.DS_Store
